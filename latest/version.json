@@ -1,12 +1,14 @@
 {
-    "PackageFile":  "VBoxTrayManager-1.0.0.33.zip",
-    "Version":  "1.0.0.33",
+    "PackageFile":  "VBoxTrayManager-1.0.0.35.zip",
+    "Version":  "1.0.0.35",
     "ReleaseNotes":  [
-                         "releasing v1.0.0.33",
-                         "removed message boxes and switched updater to silent mode"
+                         "releasing v 1.0.0.35",
+                         "adding named pipe",
+                         "adding download progress reporting",
+                         "using named pipe"
                      ],
     "MinimumUpdaterVersion":  "1.0.0",
-    "SHA256":  "F977452144257E8010BD3AF269DFB61644FA3C63CC3456D1C3A3666FEBBCD4ED",
-    "PackageSize":  20180705,
-    "ReleaseDateUtc":  "2026-07-15T04:07:02.8847887Z"
+    "SHA256":  "E22C8808263B0C5F7EEBE5659FF1593B05731D834D9355670B839770ABBCF866",
+    "PackageSize":  22214724,
+    "ReleaseDateUtc":  "2026-07-20T16:33:15.1891572Z"
 }
