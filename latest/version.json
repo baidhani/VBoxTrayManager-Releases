@@ -1,12 +1,12 @@
 {
-    "PackageFile":  "VBoxTrayManager-1.0.0.53.zip",
-    "Version":  "1.0.0.53",
+    "PackageFile":  "VBoxTrayManager-1.0.0.55.zip",
+    "Version":  "1.0.0.55",
     "ReleaseNotes":  [
-                         "Releasing v1.0.0.53",
+                         "Releasing v1.0.0.55",
                          "UI/UX improvements"
                      ],
     "MinimumUpdaterVersion":  "1.0.0",
-    "SHA256":  "6879B9FBB345AD87BA09A9CE66D3F2EC956E34C2C431C618EA01892017DD73A3",
-    "PackageSize":  22220929,
-    "ReleaseDateUtc":  "2026-07-21T19:15:30.3802847Z"
+    "SHA256":  "5C1D744FCB20922BA54B16D330FB532A2B38EAFC069BBBD04C4B3DA6201D7AC2",
+    "PackageSize":  20199690,
+    "ReleaseDateUtc":  "2026-07-21T19:44:33.8421513Z"
 }
