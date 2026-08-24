@@ -1,0 +1,11 @@
+{
+  "Version": "1.0.0.0",
+  "PackageFile": "VBoxTrayManager-1.0.0.0.zip",
+  "PackageSize": 6722138,
+  "SHA256": "576DC37453048A6C5CB6FE216D3E58F99148EBBB8F7C769DFCF79B13E7D923AE",
+  "ReleaseDateUtc": "2026-08-24T18:48:37.2730447\u002B00:00",
+  "MinimumUpdaterVersion": "1.0.0",
+  "ReleaseNotes": [
+    "First public release 1.0.0.0"
+  ]
+}
