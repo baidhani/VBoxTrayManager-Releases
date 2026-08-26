@@ -1,11 +1,28 @@
 {
-  "Version": "1.0.0.0",
-  "PackageFile": "VBoxTrayManager-1.0.0.0.zip",
-  "PackageSize": 6722138,
-  "SHA256": "576DC37453048A6C5CB6FE216D3E58F99148EBBB8F7C769DFCF79B13E7D923AE",
-  "ReleaseDateUtc": "2026-08-24T18:48:37.2730447\u002B00:00",
+  "Version": "1.0.0.1",
+  "PackageFile": "VBoxTrayManager-1.0.0.1.zip",
+  "PackageSize": 7250465,
+  "SHA256": "8D628D751383AE26ED3141D3C375BFD6D8A21784D69FDAA41AB8903CBF8CA8AE",
+  "ReleaseDateUtc": "2026-08-26T16:47:33.7160862\u002B00:00",
   "MinimumUpdaterVersion": "1.0.0",
   "ReleaseNotes": [
-    "First public release 1.0.0.0"
+    "VBox Tray Manager v1.0.0.1",
+    "This release focuses on application polish, diagnostics, update management, and usability improvements.",
+    "What\u0027s New \u0026 Improved",
+    "Added a full-featured Logs Viewer with searching, filtering, refresh, archive management, and improved toolbar controls.",
+    "Added manual update checking from the About page with clear checking, up-to-date, update-available, and error states.",
+    "Added configurable automatic update checking, including enable/disable control and check frequency.",
+    "Added configurable automatic update checking, including enable/disable control and check frequency.",
+    "Added an update-available tray icon that remains visible regardless of VM state changes until the update is installed.",
+    "Added a tray notification when a new application update is detected.",
+    "Redesigned and expanded the About page with Manager, Updater, VirtualBox, and COM status information.",
+    "Added detailed application information including platform, .NET runtime, architecture, build type, install location, and data location.",
+    "Added quick access to the application\u0027s data folder directly from the About page.",
+    "Improved the Settings page layout and toolbar/button styling with modern vector icons and hover states.",
+    "Moved application settings to %LOCALAPPDATA%\\VBoxTrayManager\\Config with automatic migration of existing settings.",
+    "Improved general UI consistency, iconography, spacing, and visual polish throughout the application.",
+    "Added developer and copyright information to the About page.",
+    "Upgrade Notes:",
+    "Existing settings are migrated automatically to the new configuration location. No manual configuration changes should be required."
   ]
 }
