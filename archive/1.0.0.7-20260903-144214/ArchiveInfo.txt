@@ -1,0 +1,28 @@
+VBoxTrayManager Release Archive
+==============================
+
+Archived Version       : 1.0.0.7
+Triggered By Version   : 1.0.0.8
+
+Archive Local Time     : 2026-09-03 14:42:14 -05:00
+Archive UTC Time       : 2026-09-03 19:42:14Z
+Time Zone              : (UTC-06:00) Central Time (US & Canada)
+Time Zone ID           : Central Standard Time
+UTC Offset             : -05:00
+
+Machine Name           : FEERCY-LEGION7I
+Source Manifest        : latest\version.json
+Archive Folder         : 1.0.0.7-20260903-144214
+Archive Reason         : Previous latest release archived before publishing 1.0.0.8
+
+Archived File Count    : 2
+
+Archived Files:
+
+  VBoxTrayManager-1.0.0.7.zip
+    Size   : 7321518
+    SHA256 : 3D1CE6610AD6EC2497E67CBF322BF3A9C7DC1B24DA3DF6C512950E6BA2187D57
+
+  VBoxTrayManager-Setup-1.0.0.7.exe
+    Size   : 6220012
+    SHA256 : AE6F895B4DDD4EBB17B9A6B74102AE08EF6200C489D7ACD65C1F0A92EFE96826
